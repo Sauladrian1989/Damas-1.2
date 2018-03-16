@@ -1,0 +1,174 @@
+.fichaRoja>img{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px 5px 5px 5px;
+	
+
+}
+
+.fichaNegra>img{
+	width: 40px;
+	height: 40px;
+	
+}
+
+#fichaRoja1{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 455px;
+}
+
+#fichaRoja2{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 595px;
+
+}
+
+#fichaRoja3{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 735px;
+
+}
+#fichaRoja4{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 875px;
+
+}
+
+#fichaRoja5{
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 525px;
+
+}
+
+#fichaRoja6{
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 665px;
+
+}
+
+#fichaRoja7{
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 805px;
+
+}
+
+#fichaRoja8{
+	position: absolute;
+	margin-top: 210px;
+	margin-left: 455px;
+
+}
+
+#fichaRoja9{
+	position: absolute;
+	margin-top: 210px;
+	margin-left: 595px;
+
+}
+#fichaRoja10{
+	position: absolute;
+	margin-top: 210px;
+	margin-left: 735px;
+
+}
+#fichaRoja11{
+	position: absolute;
+	margin-top: 210px;
+	margin-left: 875px;
+
+}
+
+#fichaRoja12{
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 385px;
+
+}
+
+
+#fichaNegra1{
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 453px;
+
+}
+
+#fichaNegra2{
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 593px;
+
+}
+#fichaNegra3{
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 733px;
+
+}
+
+#fichaNegra4{
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 873px;
+
+}
+
+#fichaNegra5{
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 383px;
+
+}
+
+#fichaNegra6{
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 523px;
+
+}
+
+#fichaNegra7{
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 663px;
+
+}
+#fichaNegra8{
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 803px;
+
+}
+
+#fichaNegra9{
+	position: absolute;
+	margin-top: 630px;
+	margin-left: 453px;
+
+}
+#fichaNegra10{
+	position: absolute;
+	margin-top: 630px;
+	margin-left: 593px;
+
+}
+#fichaNegra11{
+	position: absolute;
+	margin-top: 630px;
+	margin-left: 733px;
+
+}
+#fichaNegra12{
+	position: absolute;
+	margin-top: 630px;
+	margin-left: 873px;
+
+}
+
